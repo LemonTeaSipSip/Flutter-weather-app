@@ -1,4 +1,0 @@
-#Sun Mar 10 20:34:06 IST 2024
-base.0=C\:\\flutter projects\\weather_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
