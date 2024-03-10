@@ -16,9 +16,9 @@ class worker {
 
     try {
       Response response = await get(Uri.parse(
-          "https://api.openweathermap.org/data/2.5/weather?q=$location&appid= App api key "));
-      /// please add api key
+          "https://api.openweathermap.org/data/2.5/weather?q=$location&appid=  add api key  "));
 
+      /// please add api key
 
       Map data = jsonDecode(response.body);
       List weatherData = data['weather'];
